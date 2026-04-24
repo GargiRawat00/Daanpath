@@ -107,7 +107,7 @@ Client (React)
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/daanpath.git
+git clone https://github.com/GargiRawat00/daanpath.git
 cd daanpath
 ```
 
@@ -259,8 +259,8 @@ MongoDB's `2dsphere` index enables `$geoNear` queries that find and sort volunte
 
 | Name | Role |
 |------|------|
-| Person A | Backend Core — Auth, Listings, Dispatch Engine |
-| Person B | Backend Support — Socket.io, Notifications, Deployment |
+| Gargi Rawat | Backend Core — Auth, Listings, Dispatch Engine |
+| Jay Katre | Backend Support — Socket.io, Notifications, Deployment |
 
 ---
 
